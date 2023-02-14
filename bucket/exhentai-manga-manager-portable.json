@@ -7,6 +7,12 @@
     "hash": "261d84ae25e471540da83eea955c32f6b78769b2ffdb0c05dc383586b0fe4987",
     "extract_dir": "exhentai-manga-manager portable 1.4.8",
     "bin": "exhentai-manga-manager.exe",
+    "pre_install": [
+        "Write-Host `$null >> \"$dir\\bookList.json\"",
+        "Write-Host `$null >> \"$dir\\bookList.json.br\"",
+        "Write-Host `$null >> \"$dir\\setting.json\"",
+        "Write-Host `$null >> \"$dir\\log.txt\""
+    ],
     "persist": [
         "cover",
         "bookList.json",
