@@ -7,6 +7,13 @@
     "hash": "d69e01291cbc121181f4d97d788ed3c898a10c2f90252c73dad3997fbbf1b4f1",
     "extract_dir": "exhentai-manga-manager portable 1.4.7",
     "bin": "exhentai-manga-manager.exe",
+    "persist": [
+        "cover",
+        "bookList.json",
+        "bookList.json.br",
+        "setting.json",
+        "log.txt"
+    ],
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/SchneeHertz/exhentai-manga-manager/releases/download/v$version/exhentai-manga-manager.portable.$version.zip",
