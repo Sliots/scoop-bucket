@@ -4,7 +4,7 @@
     "homepage": "https://github.com/SchneeHertz/exhentai-manga-manager",
     "license": "MIT license",
     "url": "https://github.com/SchneeHertz/exhentai-manga-manager/releases/download/v1.4.7/exhentai-manga-manager.portable.1.4.7.zip",
-    "hash": "md5:53D4971FCBD6D2537B325314A2465F3E",
+    "hash": "d69e01291cbc121181f4d97d788ed3c898a10c2f90252c73dad3997fbbf1b4f1",
     "extract_dir": "exhentai-manga-manager portable 1.4.7",
     "bin": "exhentai-manga-manager.exe",
     "pre_install": [
