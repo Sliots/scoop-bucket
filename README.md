@@ -13,5 +13,6 @@ To add this bucket, run `scoop bucket add scoop-bucket https://github.com/Sliots
 | --- | --- |
 | BilibiliDown | [哔哩哔哩视频下载器](https://github.com/nICEnnnnnnnLee/BilibiliDown) |
 | CompactGUI | [Compact 压缩功能图形化工具](https://github.com/IridiumIO/CompactGUI) |
+| dlsite-doujin-renamer | [DLsite 同人作品重命名工具](https://github.com/yodhcn/dlsite-doujin-renamer) |
 | exhentai-manga-manager-portable | [ExHentai本地漫画标签管理阅读应用](https://github.com/SchneeHertz/exhentai-manga-manager) |
 | PhotoTimeFix | [照片错误时间修复](https://github.com/Cryolitia/PhotoTimeFix) |
